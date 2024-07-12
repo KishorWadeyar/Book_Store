@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+    "price": 0,
+    "category": "free",
+    "image": "../Book.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Fiction Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+    "price": 20,
+    "category": "Entertainment",
+    "image": "../Book.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sports Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+    "price": 50,
+    "category": "free",
+    "image": "../Book.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Music Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+    "price": 40,
+    "category": "Music",
+    "image": "../Book.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Food Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+    "price": 0,
+    "category": "free",
+    "image": "../Book.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Fantasy Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+    "price": 20,
+    "category": "fantasy",
+    "image": "../Book.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Adventure Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+    "price": 25,
+    "category": "adventure",
+    "image": "../Book.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Mystery Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+    "price": 0,
+    "category": "free",
+    "image": "../Book.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Historical Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+    "price": 0,
+    "category": "free",
+    "image": "../Book.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Horror Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+    "price": 30,
+    "category": "horror",
+    "image": "../Book.jpg"
+  }
+]
